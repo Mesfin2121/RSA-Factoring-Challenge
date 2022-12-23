@@ -4,7 +4,6 @@ from sys import argv
 from math import sqrt
 
 
-
 def open_read_file(file_name):
     """read from file
     add to array
